@@ -51,19 +51,4 @@ body {
     background-color: rgba(101, 183, 85, 0.975);
 
   }
-  table {
-    width: 100%;
-    border-collapse: collapse;
-    margin-top: 20px;
-}
-th, td {
-    text-align: center;
-    padding: 8px;
-    border-bottom: 1px solid #ddd;
-    
-}
-th {
-    color: #f2f2f2;
-    background-color: rgba(101, 183, 85, 0.975);
-
-}
+ 
